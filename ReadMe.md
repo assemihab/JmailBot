@@ -1,6 +1,6 @@
 # JmailWriter: Tailoring Prompts to Elegant Writing
 
-**Introduction:**
+## Introduction:
 
 in this project, we aim to guide the user in writing prompts that invoke the LLM to:
 
@@ -10,9 +10,9 @@ in this project, we aim to guide the user in writing prompts that invoke the LLM
 - Write cover letters
 - Retrieve information about companies
 
-![image](images/task.JPG)
+![image](images/tasks.JPG)
 
-##Prompt engineering Tools utilized:
+## Prompt engineering Tools utilized:
 
 - RAG
 - Output Parsing
@@ -29,7 +29,7 @@ in this project, we aim to guide the user in writing prompts that invoke the LLM
 
 ![image](images/Rag.JPG)
 
-**Example on Generating Tailored cover letter and parsed output **
+**Example on Generating Tailored cover letter and parsed output**
 ![image](images/coverletter.JPG)
 
 
