@@ -7,6 +7,8 @@
 # !pip install openai
 # ! pip install langchain-chroma
 
+import os
+os.environ['OPENAI_API_KEY']='KEY'
 
 path='E:/FCSE/3. big data lab/lab project/lol.json'
 pathtocompany = "E:/FCSE/3. big data lab/lab project/companies.csv"
