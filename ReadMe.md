@@ -10,7 +10,7 @@ in this project, we aim to guide the user in writing prompts that invoke the LLM
 - Write cover letters
 - Retrieve information about companies
 
-![image](images/task.jpg)
+![image](images/task.JPG)
 
 ##Prompt engineering Tools utilized:
 
@@ -27,13 +27,13 @@ in this project, we aim to guide the user in writing prompts that invoke the LLM
 
 **Example on Using RAG and memory**
 
-![image](images/Rag.jpg)
+![image](images/Rag.JPG)
 
 **Example on Generating Tailored cover letter and parsed output **
-![image](images/coverletter.jpg)
+![image](images/coverletter.JPG)
 
 
-![image](images/outputparsing.jpg)
+![image](images/outputparsing.JPG)
 
 
 Before executing the project, ensure that you have pip installed in your environment. You can verify this by running the following command in the command prompt:
